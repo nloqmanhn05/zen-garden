@@ -10,6 +10,7 @@ A focus timer app where a tree grows as you work.
 ## Getting Started
 
 ```bash
+git clone (git hub ) 
 npm install
 npm start
 ```
